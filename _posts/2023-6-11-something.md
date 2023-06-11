@@ -2,7 +2,7 @@
 layout: post
 categories: mylife
 title: 写在2023年中
-image: /assets/img/blog/2023something.jpeg
+image: /assets/img/blog/2023something.jpg
 ---
 2023年6月，疫情好像从去年冬天的突然放开，所有限制、标语都消失的无影无踪，好像从未存在过一般，但自身和朋友的经历告诉我它从未离去。
 
